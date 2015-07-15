@@ -1,0 +1,12 @@
+*.aux
+*.backup
+*.log
+*.idx
+*.out
+*.snm
+*.sty~
+*.tex~
+*.toc
+*.epub
+AjahnChah.pdf
+/latex/*
